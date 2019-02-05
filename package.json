@@ -1,0 +1,19 @@
+{
+  "name": "continue",
+  "version": "1.0.0",
+  "description": "app integración continua",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/necrocyber/continue.git"
+  },
+  "author": "antonio medel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/necrocyber/continue/issues"
+  },
+  "homepage": "https://github.com/necrocyber/continue#readme"
+}
