@@ -4,6 +4,11 @@ function Sum(a,b) {
     return a + b;
 } 
 
+function Rest(a,b) {
+    return a - b;
+}
+
 module.exports = {
-    Sum
+    Sum,
+    Rest
 }
