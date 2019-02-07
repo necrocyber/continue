@@ -7,8 +7,8 @@ function Sum(a,b) {
 function Rest(a,b) {
     return a - b;
 }
-function Div() {
-
+function Div(a,b) {
+    return a / b;
 }
 
 module.exports = {
